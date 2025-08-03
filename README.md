@@ -4,7 +4,6 @@ This app is a simple e-commerce application built using **Flutter**, **BLoC (Cub
 
 ---
 
-## 📋 Full Functionality Overview
 
 This app offers a complete set of basic e-commerce features using fake APIs and local state management:
 
@@ -86,3 +85,4 @@ This app simulates a **mini online store** with full-stack behavior using only f
 * Realtime UI updates with search, cart, and favorites
 
 ---
+
